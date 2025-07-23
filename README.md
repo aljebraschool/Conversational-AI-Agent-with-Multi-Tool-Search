@@ -19,10 +19,8 @@ Using the Agent-Tool approach with conversation memory, the system:
 Access the live demo on Streamlit Cloud:
 Your App Link [Here](#) <!-- Add your deployed app link here -->
 
-[App Demo]<img width="1661" height="829" alt="image" src="https://github.com/user-attachments/assets/c6bf78f4-55e4-46f3-9dfa-f394b115c7b8" />
+<img width="1661" height="829" alt="image" src="https://github.com/user-attachments/assets/c6bf78f4-55e4-46f3-9dfa-f394b115c7b8" />
 
-
-![Agent Demo](<img width="1661" height="829" alt="image" src="https://github.com/user-attachments/assets/62309049-4b89-45f2-8f95-81a66e78bfa7" />) 
 
 🚀 **Features**
 - **Complete Conversational Experience**: Multi-turn conversations with memory
