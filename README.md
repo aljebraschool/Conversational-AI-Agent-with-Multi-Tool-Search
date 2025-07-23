@@ -37,7 +37,7 @@ Your App Link [Here](#) <!-- Add your deployed app link here -->
 Streamlit-Conversational-Agent
 ├── app.py                    # Main Streamlit application
 ├── requirements.txt          # Python dependencies
-├── .env.example             # Environment variables template
+├── .env                     # Environment variables template
 ├── README.md                # This file
 └── assets/                  # Screenshots and demo images
     └── demo_screenshot.png
