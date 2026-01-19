@@ -72,7 +72,7 @@ if prompt := st.chat_input("Ask me anything..."):
     try:
         model = ChatGroq(
             api_key=api_key, 
-            model = "gemma2-9b-it", 
+            model = "llama-3.1-8b-instant", 
             streaming=True, 
             temperature=0.1
             )
